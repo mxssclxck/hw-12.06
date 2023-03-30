@@ -22,7 +22,7 @@
 
 приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
-![alt text](https://github.com/mxssclxck/hw-12.05/blob/main/img/1.png)
+![alt text](https://github.com/mxssclxck/hw-12.06/blob/main/img/1.png)
 
 ## Задание 3
 
@@ -30,4 +30,4 @@
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
-![alt text](https://github.com/mxssclxck/hw-12.05/blob/main/img/2.png)
+![alt text](https://github.com/mxssclxck/hw-12.06/blob/main/img/2.png)
